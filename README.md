@@ -1,1 +1,1 @@
-# kubia-website-example
+# boba-website-example
